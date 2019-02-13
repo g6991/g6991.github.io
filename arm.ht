@@ -1,6 +1,6 @@
 
 [img]./c100/part6-1.jpg[/img]
-[url] insertObjtag('obj','main','./c100/c100p01.html'); 
+[url] insertObjtag('obj','main','./c100/test.txt'); 
 move_div('main','0px');
 [/url]
 [txt]百元級 pc 單晶片電腦(一)   [/txt]
