@@ -26,7 +26,10 @@ add_div('choice','body','50%','null','absolute',screen.width-5200,61,2,'',16,'',
 var qq=httpGet("arm.ht");
 
 // `<!--#include virtual="arm.ht"--> ` ;
-// <!--#include virtual="chs.txt"-->  ;
+
+ includejs("chs.txt");
+ 
+ // <!--#include virtual="chs.txt"-->  ;
  var choice=document.getElementById('choice').innerHTML; 
 
 var txt='part5-1.jpg';
