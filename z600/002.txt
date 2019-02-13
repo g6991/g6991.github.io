@@ -1,0 +1,7 @@
+
+insertnull('main');
+
+a_div('null','main','100%',90,'',16,'white','gray','');
+a_div('null','main','100%',50,'',16,'white','','');
+
+more_youtube('null','main','90%','null','002.html',36,'black','white');
