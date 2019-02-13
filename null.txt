@@ -1,0 +1,5 @@
+
+insertnull('main');
+
+var txt='wallpaper.jpg';
+add_img('null','main','100%','100%','fixed',0,0,0,txt,'');
