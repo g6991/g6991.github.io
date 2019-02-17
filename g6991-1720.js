@@ -3,7 +3,7 @@
 // var spath=location.protocol+'//'+location.hostname; 
 
 var spath01='https://g6991.github.io';
-var spath02='http://gen6991.com';
+var spath02='http://www.gen6991.com';
 var sport=0;
 
 var serid;
@@ -12,7 +12,7 @@ serid=[spath01,spath02];
 // alert(serid['1']);
 
 var bmppath01='https://g6991.github.io'; 
-var bmppath02='http://gen6991.com';
+var bmppath02='http://www.gen6991.com';
 var bmport=0;
 
 var bmpid; 
